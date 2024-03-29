@@ -1,0 +1,2601 @@
+[
+  {
+    "id": "a7cb2790-adb8-4a5c-8dbd-37a01b82bf80",
+    "active": true,
+    "teams": [
+      {
+        "season": 1939,
+        "name": "Cincinnati Reds",
+        "league": "National League",
+        "wins": 97,
+        "lost": 57,
+        "ties": 2
+      },
+      {
+        "season": 1940,
+        "name": "Cincinnati Reds",
+        "league": "National League",
+        "wins": 100,
+        "lost": 53,
+        "ties": 2
+      },
+      {
+        "season": 1956,
+        "name": "Cincinnati Redlegs",
+        "league": "National League",
+        "wins": 91,
+        "lost": 63,
+        "ties": 1
+      },
+      {
+        "season": 1970,
+        "name": "Cincinnati Reds",
+        "league": "National League",
+        "division": "West",
+        "wins": 102,
+        "lost": 60,
+        "ties": 0
+      },
+      {
+        "season": 1971,
+        "name": "Cincinnati Reds",
+        "league": "National League",
+        "division": "West",
+        "wins": 79,
+        "lost": 83,
+        "ties": 0
+      },
+      {
+        "season": 1972,
+        "name": "Cincinnati Reds",
+        "league": "National League",
+        "division": "West",
+        "wins": 95,
+        "lost": 59,
+        "ties": 0
+      },
+      {
+        "season": 1973,
+        "name": "Cincinnati Reds",
+        "league": "National League",
+        "division": "West",
+        "wins": 99,
+        "lost": 63,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "f0d17a47-4aaf-4586-871b-bc63f6b38e67",
+    "active": true,
+    "teams": [
+      {
+        "season": 1956,
+        "name": "St Louis Cardinals",
+        "league": "National League",
+        "wins": 76,
+        "lost": 78,
+        "ties": 0
+      },
+      {
+        "season": 1973,
+        "name": "St Louis Cardinals",
+        "league": "National League",
+        "division": "East",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1982,
+        "name": "St Louis Cardinals",
+        "league": "National League",
+        "division": "East",
+        "wins": 92,
+        "lost": 70,
+        "ties": 0
+      },
+      {
+        "season": 1985,
+        "name": "St Louis Cardinals",
+        "league": "National League",
+        "division": "East",
+        "wins": 101,
+        "lost": 61,
+        "ties": 0
+      },
+      {
+        "season": 2006,
+        "name": "St Louis Cardinals",
+        "league": "National League",
+        "division": "Central",
+        "wins": 83,
+        "lost": 78,
+        "ties": 0
+      },
+      {
+        "season": 2011,
+        "name": "St Louis Cardinals",
+        "league": "National League",
+        "division": "Central",
+        "wins": 90,
+        "lost": 72,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "e72be6df-4795-4a46-814c-36e7644d60da",
+    "active": true,
+    "teams": [
+      {
+        "season": 1956,
+        "name": "New York Yankees",
+        "league": "American League",
+        "wins": 97,
+        "lost": 57,
+        "ties": 0
+      },
+      {
+        "season": 1973,
+        "name": "New York Yankees",
+        "league": "American League",
+        "division": "East",
+        "wins": 80,
+        "lost": 82,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "e2852377-7797-41c7-9ae7-a6fa781f8c36",
+    "active": true,
+    "teams": [
+      {
+        "season": 1962,
+        "name": "New York Mets",
+        "league": "National League",
+        "wins": 40,
+        "lost": 120,
+        "ties": 0
+      },
+      {
+        "season": 1963,
+        "name": "New York Mets",
+        "league": "National League",
+        "wins": 51,
+        "lost": 111,
+        "ties": 0
+      },
+      {
+        "season": 1964,
+        "name": "New York Mets",
+        "league": "National League",
+        "wins": 53,
+        "lost": 109,
+        "ties": 0
+      },
+      {
+        "season": 1965,
+        "name": "New York Mets",
+        "league": "National League",
+        "wins": 50,
+        "lost": 112,
+        "ties": 0
+      },
+      {
+        "season": 1966,
+        "name": "New York Mets",
+        "league": "National League",
+        "wins": 66,
+        "lost": 95,
+        "ties": 0
+      },
+      {
+        "season": 1967,
+        "name": "New York Mets",
+        "league": "National League",
+        "wins": 61,
+        "lost": 101,
+        "ties": 0
+      },
+      {
+        "season": 1968,
+        "name": "New York Mets",
+        "league": "National League",
+        "wins": 73,
+        "lost": 89,
+        "ties": 0
+      },
+      {
+        "season": 1969,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 100,
+        "lost": 62,
+        "ties": 0
+      },
+      {
+        "season": 1970,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 83,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 1971,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 83,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 1972,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 83,
+        "lost": 73,
+        "ties": 0
+      },
+      {
+        "season": 1973,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 82,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 1986,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 108,
+        "lost": 54,
+        "ties": 0
+      },
+      {
+        "season": 2015,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 90,
+        "lost": 72,
+        "ties": 0
+      },
+      {
+        "season": 2016,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 87,
+        "lost": 75,
+        "ties": 0
+      },
+      {
+        "season": 2017,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 70,
+        "lost": 92,
+        "ties": 0
+      },
+      {
+        "season": 2018,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 77,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 2019,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 86,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 2020,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 26,
+        "lost": 34,
+        "ties": 0
+      },
+      {
+        "season": 2021,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 77,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 2022,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 101,
+        "lost": 61,
+        "ties": 0
+      },
+      {
+        "season": 2023,
+        "name": "New York Mets",
+        "league": "National League",
+        "division": "East",
+        "wins": 75,
+        "lost": 87,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "a002f22a-e3d2-4760-99c5-7ac9f87ede3d",
+    "active": true,
+    "teams": [
+      {
+        "season": 1901,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 74,
+        "lost": 62,
+        "ties": 0
+      },
+      {
+        "season": 1902,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 83,
+        "lost": 53,
+        "ties": 0
+      },
+      {
+        "season": 1903,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 75,
+        "lost": 60,
+        "ties": 0
+      },
+      {
+        "season": 1904,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 81,
+        "lost": 70,
+        "ties": 0
+      },
+      {
+        "season": 1905,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 92,
+        "lost": 56,
+        "ties": 0
+      },      {
+        "season": 1906,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 78,
+        "lost": 67,
+        "ties": 0
+      },
+      {
+        "season": 1907,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 88,
+        "lost": 57,
+        "ties": 0
+      },
+      {
+        "season": 1908,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 68,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 1909,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 95,
+        "lost": 58,
+        "ties": 0
+      },
+      {
+        "season": 1910,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 102,
+        "lost": 48,
+        "ties": 0
+      },
+      {
+        "season": 1911,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 101,
+        "lost": 50,
+        "ties": 0
+      },
+      {
+        "season": 1912,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 90,
+        "lost": 62,
+        "ties": 0
+      },
+      {
+        "season": 1913,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 74,
+        "lost": 62,
+        "ties": 0
+      },
+      {
+        "season": 1914,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 99,
+        "lost": 53,
+        "ties": 0
+      },
+      {
+        "season": 1915,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 43,
+        "lost": 109,
+        "ties": 0
+      },
+      {
+        "season": 1916,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 36,
+        "lost": 117,
+        "ties": 0
+      },
+      {
+        "season": 1917,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 55,
+        "lost": 98,
+        "ties": 0
+      },
+      {
+        "season": 1918,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 52,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 1901,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 36,
+        "lost": 104,
+        "ties": 0
+      },
+      {
+        "season": 1920,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 48,
+        "lost": 106,
+        "ties": 0
+      },
+      {
+        "season": 1921,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 53,
+        "lost": 100,
+        "ties": 0
+      },
+      {
+        "season": 1922,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 65,
+        "lost": 89,
+        "ties": 0
+      },
+      {
+        "season": 1923,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 69,
+        "lost": 83,
+        "ties": 0
+      },
+      {
+        "season": 1924,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 71,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1925,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 88,
+        "lost": 64,
+        "ties": 0
+      },
+      {
+        "season": 1926,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 83,
+        "lost": 67,
+        "ties": 0
+      },
+      {
+        "season": 1927,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 91,
+        "lost": 63,
+        "ties": 0
+      },
+      {
+        "season": 1928,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 98,
+        "lost": 55,
+        "ties": 0
+      },
+      {
+        "season": 1929,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 104,
+        "lost": 46,
+        "ties": 0
+      },
+      {
+        "season": 1930,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 102,
+        "lost": 52,
+        "ties": 0
+      },
+      {
+        "season": 1931,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 107,
+        "lost": 45,
+        "ties": 0
+      },
+      {
+        "season": 1932,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 94,
+        "lost": 60,
+        "ties": 0
+      },
+      {
+        "season": 1933,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 79,
+        "lost": 72,
+        "ties": 0
+      },
+      {
+        "season": 1934,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 68,
+        "lost": 82,
+        "ties": 0
+      },
+      {
+        "season": 1935,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 58,
+        "lost": 91,
+        "ties": 0
+      },
+      {
+        "season": 1936,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 53,
+        "lost": 100,
+        "ties": 0
+      },
+      {
+        "season": 1937,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 54,
+        "lost": 97,
+        "ties": 0
+      },
+      {
+        "season": 1938,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 53,
+        "lost": 99,
+        "ties": 0
+      },
+      {
+        "season": 1939,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 55,
+        "lost": 97,
+        "ties": 0
+      },
+      {
+        "season": 1940,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 54,
+        "lost": 100,
+        "ties": 0
+      },
+      {
+        "season": 1941,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 64,
+        "lost": 90,
+        "ties": 0
+      },
+      {
+        "season": 1942,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 55,
+        "lost": 99,
+        "ties": 0
+      },
+      {
+        "season": 1943,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 49,
+        "lost": 105,
+        "ties": 0
+      },
+      {
+        "season": 1944,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 72,
+        "lost": 82,
+        "ties": 0
+      },
+      {
+        "season": 1945,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 52,
+        "lost": 98,
+        "ties": 0
+      },
+      {
+        "season": 1946,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 49,
+        "lost": 105,
+        "ties": 0
+      },
+      {
+        "season": 1947,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 78,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 1948,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 84,
+        "lost": 70,
+        "ties": 0
+      },
+      {
+        "season": 1949,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 81,
+        "lost": 73,
+        "ties": 0
+      },
+      {
+        "season": 1950,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 52,
+        "lost": 102,
+        "ties": 0
+      },
+      {
+        "season": 1951,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 70,
+        "lost": 84,
+        "ties": 0
+      },
+      {
+        "season": 1952,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 79,
+        "lost": 75,
+        "ties": 0
+      },
+      {
+        "season": 1953,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 59,
+        "lost": 95,
+        "ties": 0
+      },
+      {
+        "season": 1954,
+        "name": "Philadelphia Athletics",
+        "league": "American League",
+        "wins": 51,
+        "lost": 103,
+        "ties": 0
+      },
+      {
+        "season": 1955,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 63,
+        "lost": 91,
+        "ties": 0
+      },
+      {
+        "season": 1956,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 52,
+        "lost": 102,
+        "ties": 0
+      },
+      {
+        "season": 1957,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 59,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 1958,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 73,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1959,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 66,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 1960,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 58,
+        "lost": 96,
+        "ties": 0
+      },
+      {
+        "season": 1961,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 61,
+        "lost": 100,
+        "ties": 0
+      },
+      {
+        "season": 1962,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 72,
+        "lost": 90,
+        "ties": 0
+      },
+      {
+        "season": 1963,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 73,
+        "lost": 89,
+        "ties": 0
+      },
+      {
+        "season": 1964,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 57,
+        "lost": 105,
+        "ties": 0
+      },
+      {
+        "season": 1965,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 59,
+        "lost": 103,
+        "ties": 0
+      },
+      {
+        "season": 1966,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 74,
+        "lost": 86,
+        "ties": 0
+      },
+      {
+        "season": 1967,
+        "name": "Kansas City Athletics",
+        "league": "American League",
+        "wins": 62,
+        "lost": 99,
+        "ties": 0
+      },
+      {
+        "season": 1968,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "wins": 82,
+        "lost": 80,
+        "ties": 0
+      },
+      {
+        "season": 1969,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 88,
+        "lost": 74,
+        "ties": 0
+      },
+      {
+        "season": 1970,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 89,
+        "lost": 73,
+        "ties": 0
+      },
+      {
+        "season": 1971,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 101,
+        "lost": 60,
+        "ties": 0
+      },
+      {
+        "season": 1972,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 93,
+        "lost": 62,
+        "ties": 0
+      },
+      {
+        "season": 1973,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 94,
+        "lost": 68,
+        "ties": 0
+      },
+      {
+        "season": 1974,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 90,
+        "lost": 72,
+        "ties": 0
+      },
+      {
+        "season": 1975,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 98,
+        "lost": 64,
+        "ties": 0
+      },
+      {
+        "season": 1976,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 87,
+        "lost": 74,
+        "ties": 0
+      },
+      {
+        "season": 1977,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 63,
+        "lost": 98,
+        "ties": 0
+      },
+      {
+        "season": 1978,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 69,
+        "lost": 93,
+        "ties": 0
+      },
+      {
+        "season": 1979,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 54,
+        "lost": 108,
+        "ties": 0
+      },
+      {
+        "season": 1980,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 83,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 1981,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 37,
+        "lost": 23,
+        "ties": 0
+      },
+      {
+        "season": 1981,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 27,
+        "lost": 22,
+        "ties": 0
+      },
+      {
+        "season": 1982,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 68,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 1983,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 1984,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 77,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 1985,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 77,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 1986,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 76,
+        "lost": 86,
+        "ties": 0
+      },
+      {
+        "season": 1987,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1988,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 104,
+        "lost": 58,
+        "ties": 0
+      },
+      {
+        "season": 1989,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 99,
+        "lost": 63,
+        "ties": 0
+      },
+      {
+        "season": 1990,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 103,
+        "lost": 59,
+        "ties": 0
+      },
+      {
+        "season": 1991,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 84,
+        "lost": 78,
+        "ties": 0
+      },
+      {
+        "season": 1992,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 96,
+        "lost": 66,
+        "ties": 0
+      },
+      {
+        "season": 1993,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 68,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 1994,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 51,
+        "lost": 63,
+        "ties": 0
+      },
+      {
+        "season": 1995,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 67,
+        "lost": 77,
+        "ties": 0
+      },
+      {
+        "season": 1996,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 78,
+        "lost": 84,
+        "ties": 0
+      },
+      {
+        "season": 1997,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 65,
+        "lost": 97,
+        "ties": 0
+      },
+      {
+        "season": 1998,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 1999,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 87,
+        "lost": 75,
+        "ties": 0
+      },
+      {
+        "season": 2000,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 91,
+        "lost": 70,
+        "ties": 0
+      },
+      {
+        "season": 2001,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 102,
+        "lost": 60,
+        "ties": 0
+      },
+      {
+        "season": 2002,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 103,
+        "lost": 59,
+        "ties": 0
+      },
+      {
+        "season": 2003,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 96,
+        "lost": 66,
+        "ties": 0
+      },
+      {
+        "season": 2004,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 91,
+        "lost": 71,
+        "ties": 0
+      },
+      {
+        "season": 2005,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 88,
+        "lost": 74,
+        "ties": 0
+      },
+      {
+        "season": 2006,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 93,
+        "lost": 69,
+        "ties": 0
+      },
+      {
+        "season": 2007,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 76,
+        "lost": 86,
+        "ties": 0
+      },
+      {
+        "season": 2008,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 75,
+        "lost": 86,
+        "ties": 0
+      },
+      {
+        "season": 2009,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 75,
+        "lost": 87,
+        "ties": 0
+      },
+      {
+        "season": 2010,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 2011,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 2012,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 94,
+        "lost": 68,
+        "ties": 0
+      },
+      {
+        "season": 2013,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 96,
+        "lost": 66,
+        "ties": 0
+      },
+      {
+        "season": 2014,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 88,
+        "lost": 74,
+        "ties": 0
+      },
+      {
+        "season": 2015,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 88,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 2016,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 69,
+        "lost": 93,
+        "ties": 0
+      },
+      {
+        "season": 2017,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 75,
+        "lost": 87,
+        "ties": 0
+      },
+      {
+        "season": 2018,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 97,
+        "lost": 65,
+        "ties": 0
+      },
+      {
+        "season": 2019,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 97,
+        "lost": 65,
+        "ties": 0
+      },
+      {
+        "season": 2020,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 36,
+        "lost": 24,
+        "ties": 0
+      },
+      {
+        "season": 2021,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 86,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 2022,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 60,
+        "lost": 102,
+        "ties": 0
+      },
+      {
+        "season": 2023,
+        "name": "Oakland Athletics",
+        "league": "American League",
+        "division": "West",
+        "wins": 50,
+        "lost": 112,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "b8c22e27-66de-4381-a2d3-e5c0eb4784eb",
+    "active": true,
+    "teams": [
+      {
+        "season": 1962,
+        "name": "Houston Colt .45s",
+        "league": "National League",
+        "wins": 64,
+        "lost": 96,
+        "ties": 0
+      },
+      {
+        "season": 1963,
+        "name": "Houston Colt .45s",
+        "league": "National League",
+        "wins": 66,
+        "lost": 96,
+        "ties": 0
+      },
+      {
+        "season": 1964,
+        "name": "Houston Colt .45s",
+        "league": "National League",
+        "wins": 66,
+        "lost": 96,
+        "ties": 0
+      },
+      {
+        "season": 1965,
+        "name": "Houston Astros",
+        "league": "National League",
+        "wins": 66,
+        "lost": 97,
+        "ties": 0
+      },
+      {
+        "season": 1966,
+        "name": "Houston Astros",
+        "league": "National League",
+        "wins": 72,
+        "lost": 90,
+        "ties": 0
+      },
+      {
+        "season": 1967,
+        "name": "Houston Astros",
+        "league": "National League",
+        "wins": 69,
+        "lost": 93,
+        "ties": 0
+      },
+      {
+        "season": 1968,
+        "name": "Houston Astros",
+        "league": "National League",
+        "wins": 72,
+        "lost": 90,
+        "ties": 0
+      },
+      {
+        "season": 1969,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1970,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 79,
+        "lost": 83,
+        "ties": 0
+      },
+      {
+        "season": 1971,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 79,
+        "lost": 83,
+        "ties": 0
+      },
+      {
+        "season": 1972,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 84,
+        "lost": 69,
+        "ties": 0
+      },
+      {
+        "season": 1973,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 82,
+        "lost": 80,
+        "ties": 0
+      },
+      {
+        "season": 1974,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1975,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 64,
+        "lost": 97,
+        "ties": 0
+      },
+      {
+        "season": 1976,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 80,
+        "lost": 82,
+        "ties": 0
+      },
+      {
+        "season": 1977,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1978,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 1979,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 89,
+        "lost": 73,
+        "ties": 0
+      },
+      {
+        "season": 1980,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 93,
+        "lost": 70,
+        "ties": 0
+      },
+      {
+        "season": 1981,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 28,
+        "lost": 29,
+        "ties": 0
+      },
+      {
+        "season": 1981,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 33,
+        "lost": 20,
+        "ties": 0
+      },
+      {
+        "season": 1982,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 77,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 1983,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 85,
+        "lost": 77,
+        "ties": 0
+      },
+      {
+        "season": 1984,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 80,
+        "lost": 82,
+        "ties": 0
+      },
+      {
+        "season": 1985,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 83,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 1986,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 96,
+        "lost": 66,
+        "ties": 0
+      },
+      {
+        "season": 1987,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 76,
+        "lost": 86,
+        "ties": 0
+      },
+      {
+        "season": 1988,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 82,
+        "lost": 80,
+        "ties": 0
+      },
+      {
+        "season": 1989,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 86,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 1990,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 75,
+        "lost": 87,
+        "ties": 0
+      },
+      {
+        "season": 1991,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 65,
+        "lost": 97,
+        "ties": 0
+      },
+      {
+        "season": 1992,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 1993,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "West",
+        "wins": 85,
+        "lost": 77,
+        "ties": 0
+      },
+      {
+        "season": 1994,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 66,
+        "lost": 49,
+        "ties": 0
+      },
+      {
+        "season": 1995,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 76,
+        "lost": 68,
+        "ties": 0
+      },
+      {
+        "season": 1996,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 82,
+        "lost": 80,
+        "ties": 0
+      },
+      {
+        "season": 1997,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 84,
+        "lost": 78,
+        "ties": 0
+      },
+      {
+        "season": 1998,
+        "name": "Houston Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 102,
+        "lost": 60,
+        "ties": 0
+      },
+      {
+        "season": 1999,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 97,
+        "lost": 65,
+        "ties": 0
+      },
+      {
+        "season": 2000,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 72,
+        "lost": 90,
+        "ties": 0
+      },
+      {
+        "season": 2001,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 93,
+        "lost": 69,
+        "ties": 0
+      },
+      {
+        "season": 2002,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 84,
+        "lost": 78,
+        "ties": 0
+      },
+      {
+        "season": 2003,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 87,
+        "lost": 75,
+        "ties": 0
+      },
+      {
+        "season": 2004,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 92,
+        "lost": 70,
+        "ties": 0
+      },
+      {
+        "season": 2005,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 89,
+        "lost": 73,
+        "ties": 0
+      },
+      {
+        "season": 2006,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 82,
+        "lost": 80,
+        "ties": 0
+      },
+      {
+        "season": 2007,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 73,
+        "lost": 89,
+        "ties": 0
+      },
+      {
+        "season": 2008,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 86,
+        "lost": 75,
+        "ties": 0
+      },
+      {
+        "season": 2009,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 2010,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 76,
+        "lost": 86,
+        "ties": 0
+      },
+      {
+        "season": 2011,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 56,
+        "lost": 106,
+        "ties": 0
+      },
+      {
+        "season": 2012,
+        "name": "Houton Astros",
+        "league": "National League",
+        "division": "Central",
+        "wins": 55,
+        "lost": 107,
+        "ties": 0
+      },
+      {
+        "season": 2013,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 51,
+        "lost": 111,
+        "ties": 0
+      },
+      {
+        "season": 2014,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 70,
+        "lost": 92,
+        "ties": 0
+      },
+      {
+        "season": 2015,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 86,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 2016,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 84,
+        "lost": 78,
+        "ties": 0
+      },
+      {
+        "season": 2017,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 101,
+        "lost": 61,
+        "ties": 0
+      },
+      {
+        "season": 2018,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 103,
+        "lost": 59,
+        "ties": 0
+      },
+      {
+        "season": 2019,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 107,
+        "lost": 55,
+        "ties": 0
+      },
+      {
+        "season": 2020,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 29,
+        "lost": 31,
+        "ties": 0
+      },
+      {
+        "season": 2021,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 95,
+        "lost": 67,
+        "ties": 0
+      },
+      {
+        "season": 2022,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 106,
+        "lost": 56,
+        "ties": 0
+      },
+      {
+        "season": 2023,
+        "name": "Houton Astros",
+        "league": "American League",
+        "division": "West",
+        "wins": 90,
+        "lost": 72,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "11c323c5-7c8e-4a74-91f7-887c901ee36e",
+    "active": true,
+    "teams": [
+      {
+        "season": 1969,
+        "name": "Seattle Pilots",
+        "league": "American League",
+        "division": "West",
+        "wins": 64,
+        "lost": 96,
+        "ties": 0
+      },
+      {
+        "season": 1970,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "West",
+        "wins": 65,
+        "lost": 97,
+        "ties": 0
+      },
+      {
+        "season": 1971,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "West",
+        "wins": 69,
+        "lost": 92,
+        "ties": 0
+      },
+      {
+        "season": 1972,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 65,
+        "lost": 91,
+        "ties": 0
+      },
+      {
+        "season": 1973,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 1974,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 76,
+        "lost": 86,
+        "ties": 0
+      },
+      {
+        "season": 1975,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 68,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 1976,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 66,
+        "lost": 95,
+        "ties": 0
+      },
+      {
+        "season": 1977,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 67,
+        "lost": 95,
+        "ties": 0
+      },
+      {
+        "season": 1978,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 93,
+        "lost": 69,
+        "ties": 0
+      },
+      {
+        "season": 1979,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 95,
+        "lost": 66,
+        "ties": 0
+      },
+      {
+        "season": 1980,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 86,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 1981,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 31,
+        "lost": 25,
+        "ties": 0
+      },
+      {
+        "season": 1981,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 31,
+        "lost": 22,
+        "ties": 0
+      },
+      {
+        "season": 1982,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 95,
+        "lost": 67,
+        "ties": 0
+      },
+      {
+        "season": 1983,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 87,
+        "lost": 75,
+        "ties": 0
+      },
+      {
+        "season": 1984,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 67,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 1985,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 71,
+        "lost": 90,
+        "ties": 0
+      },
+      {
+        "season": 1986,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 77,
+        "lost": 84,
+        "ties": 0
+      },
+      {
+        "season": 1987,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 91,
+        "lost": 71,
+        "ties": 0
+      },
+      {
+        "season": 1988,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 87,
+        "lost": 75,
+        "ties": 0
+      },
+      {
+        "season": 1989,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 81,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 1990,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 1991,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 83,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 1992,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 92,
+        "lost": 70,
+        "ties": 0
+      },
+      {
+        "season": 1993,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "East",
+        "wins": 69,
+        "lost": 93,
+        "ties": 0
+      },
+      {
+        "season": 1994,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "Central",
+        "wins": 53,
+        "lost": 62,
+        "ties": 0
+      },
+      {
+        "season": 1995,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "Central",
+        "wins": 65,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 1996,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "Central",
+        "wins": 80,
+        "lost": 82,
+        "ties": 0
+      },
+      {
+        "season": 1997,
+        "name": "Milwaukee Brewers",
+        "league": "American League",
+        "division": "Central",
+        "wins": 78,
+        "lost": 83,
+        "ties": 0
+      },
+      {
+        "season": 1998,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 1999,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 74,
+        "lost": 87,
+        "ties": 0
+      },
+      {
+        "season": 2000,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 73,
+        "lost": 89,
+        "ties": 0
+      },
+      {
+        "season": 2001,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 68,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 2002,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 56,
+        "lost": 106,
+        "ties": 0
+      },
+      {
+        "season": 2003,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 68,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 2004,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 67,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 2005,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 81,
+        "lost": 81,
+        "ties": 0
+      },
+      {
+        "season": 2006,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 75,
+        "lost": 87,
+        "ties": 0
+      },
+      {
+        "season": 2007,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 83,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 2008,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 90,
+        "lost": 72,
+        "ties": 0
+      },
+      {
+        "season": 2009,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 80,
+        "lost": 82,
+        "ties": 0
+      },
+      {
+        "season": 2010,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 77,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 2011,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 96,
+        "lost": 66,
+        "ties": 0
+      },
+      {
+        "season": 2012,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 83,
+        "lost": 79,
+        "ties": 0
+      },
+      {
+        "season": 2013,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 74,
+        "lost": 88,
+        "ties": 0
+      },
+      {
+        "season": 2014,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 82,
+        "lost": 80,
+        "ties": 0
+      },
+      {
+        "season": 2015,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 68,
+        "lost": 94,
+        "ties": 0
+      },
+      {
+        "season": 2016,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 73,
+        "lost": 89,
+        "ties": 0
+      },
+      {
+        "season": 2017,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 86,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 2018,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 96,
+        "lost": 67,
+        "ties": 0
+      },
+      {
+        "season": 2019,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 89,
+        "lost": 73,
+        "ties": 0
+      },
+      {
+        "season": 2020,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 29,
+        "lost": 31,
+        "ties": 0
+      },
+      {
+        "season": 2021,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 95,
+        "lost": 67,
+        "ties": 0
+      },
+      {
+        "season": 2022,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 86,
+        "lost": 76,
+        "ties": 0
+      },
+      {
+        "season": 2023,
+        "name": "Milwaukee Brewers",
+        "league": "National League",
+        "division": "Central",
+        "wins": 92,
+        "lost": 70,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "806adf21-393f-4b72-b3d9-bd3ca27535a5",
+    "active": true,
+    "teams": [
+      {
+        "season": 1883,
+        "name": "New York Gothams",
+        "league": "National League",
+        "wins": 46,
+        "lost": 50,
+        "ties": 0
+      },
+      {
+        "season": 1884,
+        "name": "New York Gothams",
+        "league": "National League",
+        "wins": 62,
+        "lost": 50,
+        "ties": 0
+      },
+      {
+        "season": 1885,
+        "name": "New York Giants",
+        "league": "National League",
+        "wins": 85,
+        "lost": 27,
+        "ties": 0
+      },
+      {
+        "season": 1957,
+        "name": "New York Giants",
+        "league": "National League",
+        "wins": 69,
+        "lost": 85,
+        "ties": 0
+      },
+      {
+        "season": 1958,
+        "name": "San Francisco Giants",
+        "league": "National League",
+        "wins": 80,
+        "lost": 74,
+        "ties": 0
+      },
+      {
+        "season": 2023,
+        "name": "San Francisco Giants",
+        "league": "National League",
+        "division": "West",
+        "wins": 79,
+        "lost": 83,
+        "ties": 0
+      }
+    ]
+  },
+  {
+    "id": "f0356a24-d5df-4f34-8296-493b8ac126ba",
+    "active": true,
+    "teams": [
+      {
+        "season": 1883,
+        "name": "Brooklyn Grays",
+        "league": "Interstate Association",
+        "wins": 44,
+        "lost": 28,
+        "ties": 0
+      },
+      {
+        "season": 1884,
+        "name": "Brooklyn Atlantics",
+        "league": "American Association",
+        "wins": 40,
+        "lost": 64,
+        "ties": 0
+      },
+      {
+        "season": 1885,
+        "name": "Brooklyn Grays",
+        "league": "American Association",
+        "wins": 53,
+        "lost": 59,
+        "ties": 0
+      },
+      {
+        "season": 1886,
+        "name": "Brooklyn Grays",
+        "league": "American Association",
+        "wins": 76,
+        "lost": 61,
+        "ties": 0
+      },
+      {
+        "season": 1887,
+        "name": "Brooklyn Grays",
+        "league": "American Association",
+        "wins": 60,
+        "lost": 74,
+        "ties": 0
+      },
+      {
+        "season": 1888,
+        "name": "Brooklyn Bridegrooms",
+        "league": "American Association",
+        "wins": 88,
+        "lost": 52,
+        "ties": 0
+      },
+      {
+        "season": 1889,
+        "name": "Brooklyn Bridegrooms",
+        "league": "American Association",
+        "wins": 93,
+        "lost": 44,
+        "ties": 0
+      },
+      {
+        "season": 1890,
+        "name": "Brooklyn Bridegrooms",
+        "league": "American Association",
+        "wins": 86,
+        "lost": 43,
+        "ties": 0
+      }
+    ]
+  }
+]

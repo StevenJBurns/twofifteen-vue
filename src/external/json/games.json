@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3ba4ab3e-8849-469f-b25b-19d509a33f8d",
+    "venue": "",
+    "date": {
+      "scheduled": "",
+      "completed": ""
+    },
+    "teams": {
+      "away": "",
+      "home": ""
+    }
+  },
+  {
+    "id": "b68b42d6-8f84-4b8d-ae38-a36489c8a0a9",
+    "venue": "",
+    "date": {
+      "scheduled": "",
+      "completed": ""
+    },
+    "teams": {
+      "away": "",
+      "home": ""
+    }
+  },
+  {
+    "id": "8f0cf2ae-3b93-4a8c-9eea-dd0b8df6abe0",
+    "venue": "",
+    "date": {
+      "scheduled": "",
+      "completed": ""
+    },
+    "teams": {
+      "away": "",
+      "home": ""
+    }
+  },
+  {
+    "id": "e9a42c1d-2491-4c16-8749-5be6e2feb861",
+    "venue": "",
+    "date": {
+      "scheduled": "",
+      "completed": ""
+    },
+    "teams": {
+      "away": "",
+      "home": ""
+    }
+  }
+]

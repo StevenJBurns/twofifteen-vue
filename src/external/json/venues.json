@@ -1,0 +1,123 @@
+[
+  {
+    "id": "9b895e45-284e-41e6-9484-68985d12a549",
+    "name": "Citi Field",
+    "surface": "grass",
+    "roof": "open",
+    "location": {
+      "city": "Queens",
+      "state": "New York",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "71b9e28c-5bf6-44aa-87b0-6b34e77a412e",
+    "name": "Coors Field",
+    "surface": "grass",
+    "roof": "open",
+    "location": {
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "672b1434-872d-48ad-ad57-292f3fc81b54",
+    "name": "Mile High Stadium",
+    "surface": "grass",
+    "roof": "open",
+    "location": {
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "18bca093-dc25-4c82-a3fa-7696ca49b7d3",
+    "name": "Minute Maid Park",
+    "surface": "grass",
+    "roof": "retractable",
+    "location": {
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "5fe58b64-9ba0-42a3-99e4-71b926743e0b",
+    "name": "Houston Astrodome",
+    "surface": "artificial",
+    "roof": "fixed",
+    "location": {
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "f954bb31-8616-41df-9074-b42d4d460b8e",
+    "name": "Rogers Centre",
+    "surface": "artificial",
+    "roof": "retractable",
+    "location": {
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada"
+    }
+  },
+  {
+    "id": "64f87b41-f0d9-46bd-ab3c-a1eddf72ea79",
+    "name": "Tropicana Field",
+    "surface": "artificial",
+    "roof": "fixed",
+    "location": {
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "18def6ff-3d58-47fb-bce5-1c43472653da",
+    "name": "Oracle Park",
+    "surface": "grass",
+    "roof": "open",
+    "location": {
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "2825675b-97ab-43c0-9025-ec6e4fe62a87",
+    "name": "Wrigley Field",
+    "surface": "grass",
+    "roof": "open",
+    "location": {
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "0e5e74ce-802b-44f6-bf87-1acf24ea18fd",
+    "name": "Guaranteed Rate Field",
+    "surface": "grass",
+    "roof": "open",
+    "location": {
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "f77bbb0d-3fd0-417d-add0-169555993f0e",
+    "name": "Fenway Park",
+    "surface": "grass",
+    "roof": "open",
+    "location": {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States"
+    }
+  }
+]
