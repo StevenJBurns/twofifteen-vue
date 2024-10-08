@@ -73,7 +73,7 @@ export class VenueViewModel {
       case VenueSurface.NaturalGrass:
         return 'Grass';
       case VenueSurface.ArtificalTurf:
-        return 'Artiifical Turf';
+        return 'Artificial Turf';
       case VenueSurface.PaintedDirt:
         return 'Painted Turf';
       case VenueSurface.Unknown:
